@@ -1,7 +1,7 @@
 ﻿# Domalice.github.io
 
 ## Descrição:
-Acessando o link terá acesso ao meu **portfólio**.
+Acessando o link acima terá acesso ao meu **portfólio**.
 
 ### Linguagens utilizada:
 * HTML
